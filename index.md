@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# About me
 
-You can use the [editor on GitHub](https://github.com/WajihaSheikh/My-website-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Welcome!**
+My name is Wajiha Sheikh. Thank you for clicking on my website! I am 15 and have recently gotten into coding. Hope you enjoy
+# Hobbies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**I do lots of stuff in my free time but my favorites are**
 
-### Markdown
+``` Painting
+Why? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Its relaxing
+## Enjoyable 
+## Expressive 
 
-```markdown
-Syntax highlighted code block
+- Skating with my friends 
+- Swimming competitive preferred 
 
-# Header 1
-## Header 2
-### Header 3
+1. They both burn alot of my energy which is fine by me 
+2. I want to skate or swim professionally
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+``` My favoirte animal are dogs
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+__I love cane corsos to be specific__ 
 
-### Jekyll Themes
+![This is an image of my favorite dog breed](https://images.app.goo.gl/2SLAK9uHKMirBJbb6) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WajihaSheikh/My-website-github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I think my love for dogs comes from a movie i watched called a dogs purpose a must watch
 
-### Support or Contact
+# Did u learn anything new about me? 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How about you try and make a website who knows maybe you will enjoy it make sure to vist again
